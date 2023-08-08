@@ -1,0 +1,1 @@
+gcloud ml language analyze-syntax --content='add 2 1 gig datafiles to the data tablespace'

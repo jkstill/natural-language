@@ -1,0 +1,9 @@
+"ROOT","VERB","increase","increase",0
+"NN","NOUN","data","data",9
+"DOBJ","NOUN","tablespace","tablespace",14
+"PREP","ADP","by","by",25
+"PCOMP","VERB","adding","add",28
+"DET","DET","a","a",35
+"NUM","NUM","1","1",37
+"NN","NOUN","gig","gig",39
+"DOBJ","NOUN","datafiles","datafile",43

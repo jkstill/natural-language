@@ -1,0 +1,9 @@
+"PREP","ADP","to","to",0
+"DET","DET","the","the",3
+"NN","NOUN","data","data",7
+"POBJ","NOUN","tablespace","tablespace",12
+"ROOT","VERB","add","add",23
+"NUMBER","NUM","2","2",27
+"NUM","NUM","1","1",29
+"NN","NOUN","gig","gig",31
+"DOBJ","NOUN","datafiles","datafile",35

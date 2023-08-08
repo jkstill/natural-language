@@ -1,0 +1,9 @@
+"ROOT","VERB","add","add",0
+"NUMBER","NUM","2","2",4
+"NUM","NUM","1","1",6
+"NN","NOUN","gig","gig",8
+"DOBJ","NOUN","datafiles","datafile",12
+"PREP","ADP","to","to",22
+"DET","DET","the","the",25
+"NN","NOUN","data","data",29
+"POBJ","NOUN","tablespace","tablespace",34
